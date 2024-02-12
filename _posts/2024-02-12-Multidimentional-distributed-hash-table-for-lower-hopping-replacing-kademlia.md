@@ -71,3 +71,5 @@ A node in 2D that is being accessed frequently from the entire topography can be
 *Note: A system potentially needs to fix the maximum number of dimentions the network can handle beyond which is a tipping point, and computation takes up more time than hopping ever would. Also, dimensional hopping would introduce certain factors to consider, such as the consensus mechanism for node value in space.*
 
 In the case of a new, non-existing dimension, the routing table can add on another pointer from the parent node to signify a new dimension of search.
+
+*Note: The material presented on this website reflects my personal views and expressions. Please ensure proper attribution is given when using or referencing this content.*

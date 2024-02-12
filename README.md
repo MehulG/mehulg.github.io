@@ -20,3 +20,5 @@ Feel free to reach out.
 Mail me [here](mailto:mehul97g@gmail.com)
 
 or follow me on [twitter](https://twitter.com/0xmmmehulll)
+
+*Note: The material presented on this website reflects my personal views and expressions. Please ensure proper attribution is given when using or referencing this content.*
