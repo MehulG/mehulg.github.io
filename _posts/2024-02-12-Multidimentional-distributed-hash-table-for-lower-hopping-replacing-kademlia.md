@@ -1,5 +1,5 @@
 ---
-title: "Proposing multidimentional distributed hash table for lower hopping - replacing kademlia"
+title: "Proposing Multidimentional distributed hash table for lower hopping - replacing kademlia"
 layout: post
 ---
 
@@ -44,9 +44,9 @@ Searching in this case would look like this:
 
 Iteration | X coordinate | Y coordinate|
 |---|---|---|
-1 | `100<X<111` | `000<Y<011` |
-2 | `100<X<101` | `010<Y<011` |
-3 | `101<X<101` | `010<Y<010` |
+1 | `100<=X<=111` | `000<=Y<=011` |
+2 | `100<=X<=101` | `010<=Y<=011` |
+3 | `101<=X<=101` | `010<=Y<=010` |
 
 ![Searching for node](/assets/images/Multidimentional-distributed-hash-table-for-lower-hopping-replacing-kademlia/searching-for-node.gif)
 
